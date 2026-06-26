@@ -26,9 +26,9 @@ jobs:
                 'assignment-1/screencap-layout.png'
               ],
               'assignment-2': [
+                'ANSWERS.md',
                 'assignment-2/map-hurricane-ida.png',
-                'assignment-2/screencap-qgis-workspace.png',
-                'assignment-2/README.md'
+                'assignment-2/screencap-qgis-workspace.png'
               ],
               'assignment-3': [
                 'assignment-3/screencap-spatial-join.png',
