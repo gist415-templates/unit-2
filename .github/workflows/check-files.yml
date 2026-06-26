@@ -20,10 +20,10 @@ jobs:
 
             const REQUIRED = {
               'assignment-1': [
-                'assignment-1/README.md'
+                'ANSWERS.md'
               ],
               'assignment-2': [
-                'assignment-2/README.md',
+                'ANSWERS.md',
                 'assignment-2/screenshot-desktop.png'
               ]
             };
